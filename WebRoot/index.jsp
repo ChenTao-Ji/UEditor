@@ -22,6 +22,7 @@
     	</script>
     </div>
     这是GitHub的测试!
+    ~~~~
 </body>
 <script type="text/javascript">
 	function getContent() {
